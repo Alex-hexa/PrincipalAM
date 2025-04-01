@@ -1,0 +1,3 @@
+[submodule "SecondaireAM"]
+	path = SecondaireAM
+	url = https://github.com/Alex-hexa/SecondaireAM.git
